@@ -32,7 +32,7 @@ A Spring MVC web application for Employee Information Management with the follow
 i. Clone the git repo
 
 ```
-
+https://github.com/itsgowtham23/employee-management-system
 ```
 
 ii. Open project folder
@@ -82,4 +82,4 @@ Author: Gowtham Kanagaraj
  
 Github Project Name: Employee Management System
 
-Github URL: https://github.com/RameshMF/springboot-thymeleaf-crud-pagination-sorting-webapp
+Github URL: https://github.com/itsgowtham23/employee-management-system
